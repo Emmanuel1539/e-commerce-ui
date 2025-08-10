@@ -1,6 +1,6 @@
 const Homepage = () => {
   return (
-    <div className=''>Homepage</div>
+    <div className='flex items-center justify-center h-screen'>Homepage</div>
   )
 }
 
